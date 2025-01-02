@@ -36,7 +36,7 @@ The dataset contains 284,807 transactions with 31 features:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/Akshat-Sharma-110011/credit-card-fraud-detection.git
    ```
 2. Navigate to the project directory:
    ```bash
