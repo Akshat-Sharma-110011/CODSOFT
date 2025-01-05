@@ -152,6 +152,6 @@ I extend my gratitude to **CodSoft** for providing this enriching internship exp
 
 For any queries or further discussion, feel free to reach out to:  
 **Name:** Akshat Sharma  
-**Email:** [Your Email Address]  
-**GitHub:** [Your GitHub Profile Link]  
-**Kaggle:** [Your Kaggle Profile Link]  
+**Email:** [akshatsharma.work.1310@gmail.com]  
+**GitHub:** [https://github.com/Akshat-Sharma-110011]
+**Kaggle:** [https://www.kaggle.com/akshatsharmawork]
