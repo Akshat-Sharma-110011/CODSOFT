@@ -73,9 +73,9 @@ CodSoft-Internship/
 ## Contact Information  
 If you have any questions or suggestions, feel free to reach out to me:  
 - **Name:** Akshat Sharma  
-- **Email:** [your-email@example.com]  
-- **GitHub:** [https://github.com/your-github-profile]  
-- **LinkedIn:** [https://linkedin.com/in/your-linkedin-profile]  
+- **Email:** [akshatsharma.work.1310@gmail.com]  
+- **GitHub:** [https://github.com/Akshat-Sharma-110011/CODSOFT/blob/main/README.md]
+- **LinkedIn:** [https://www.linkedin.com/in/akshat-sharma-b71117344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 
 ---  
 
